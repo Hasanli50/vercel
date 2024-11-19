@@ -1,0 +1,315 @@
+{
+    "fashionBrands": [
+      {
+        "id": 1,
+        "name": "Gucci",
+        "headquarters": "Florence, Italy",
+        "foundedYear": 1921,
+        "logo": "https://i.ytimg.com/vi/Z9VGjv8wW0o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCx4QXCPhTkO2jI7iYXL5GEhYNO0w",
+        "founder": "Guccio Gucci",
+        "annualRevenue": "9.6 billion USD",
+        "popularProducts": [
+          "Handbags",
+          "Shoes",
+          "Accessories"
+        ],
+        "website": "https://www.gucci.com",
+        "employees": 17500,
+        "parentCompany": "Kering",
+        "marketRegion": [
+          "Europe",
+          "Asia",
+          "North America"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chanel",
+        "headquarters": "Paris, France",
+        "foundedYear": 1910,
+        "logo": "https://welovebrands.com.ua/wp-content/uploads/2023/06/chanel-model2.png",
+        "founder": "Coco Chanel",
+        "annualRevenue": "15 billion USD",
+        "popularProducts": [
+          "Fragrances",
+          "Haute Couture",
+          "Jewelry"
+        ],
+        "website": "https://www.chanel.com",
+        "employees": 28000,
+        "parentCompany": "Privately Owned",
+        "marketRegion": [
+          "Europe",
+          "Asia",
+          "Middle East"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Louis Vuitton",
+        "headquarters": "Paris, France",
+        "foundedYear": 1854,
+        "logo": "https://cdn.prod.website-files.com/630d4d1c4a462569dd189855/6570b2aa4eed1d80a2512a5d_1.webp",
+        "founder": "Louis Vuitton",
+        "annualRevenue": "21 billion USD",
+        "popularProducts": [
+          "Leather Goods",
+          "Footwear",
+          "Watches"
+        ],
+        "website": "https://www.louisvuitton.com",
+        "employees": 192000,
+        "parentCompany": "LVMH",
+        "marketRegion": [
+          "Worldwide"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Prada",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1913,
+        "logo": "https://www.prada.com/content/dam/pradanux/home_page/2024/10/Holiday_2/mosaic_bags/woman/Card_2_DT.jpg/_jcr_content/renditions/cq5dam.web.1664.1664.webp",
+        "founder": "Mario Prada",
+        "annualRevenue": "3.5 billion USD",
+        "popularProducts": [
+          "Bags",
+          "Clothing",
+          "Perfumes"
+        ],
+        "website": "https://www.prada.com",
+        "employees": 14000,
+        "parentCompany": "Prada Group",
+        "marketRegion": [
+          "Europe",
+          "Asia",
+          "Australia"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Versace",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1978,
+        "logo": "https://i.pinimg.com/736x/5f/7b/58/5f7b581348044a16e99ab63bde2c941d.jpg",
+        "founder": "Gianni Versace",
+        "annualRevenue": "1 billion USD",
+        "popularProducts": [
+          "Clothing",
+          "Accessories",
+          "Fragrances"
+        ],
+        "website": "https://www.versace.com",
+        "employees": 3000,
+        "parentCompany": "Capri Holdings",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Burberry",
+        "headquarters": "London, England",
+        "foundedYear": 1856,
+        "logo": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/ae149972-3a0a-4adb-8717-44b2f4359e0a_1600x900.png",
+        "founder": "Thomas Burberry",
+        "annualRevenue": "3.1 billion USD",
+        "popularProducts": [
+          "Trench Coats",
+          "Scarves",
+          "Handbags"
+        ],
+        "website": "https://www.burberry.com",
+        "employees": 9800,
+        "parentCompany": "Publicly Traded",
+        "marketRegion": [
+          "Europe",
+          "North America",
+          "Asia"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Dior",
+        "headquarters": "Paris, France",
+        "foundedYear": 1946,
+        "logo": "https://images.prismic.io/lvmh-com/4d92bc9c-ec27-42dd-b783-e06c245f88af_DIOR+PARFUMS+-+COVER.jpg?auto=compress,format",
+        "founder": "Christian Dior",
+        "annualRevenue": "7.2 billion USD",
+        "popularProducts": [
+          "Couture",
+          "Bags",
+          "Perfumes"
+        ],
+        "website": "https://www.dior.com",
+        "employees": 14500,
+        "parentCompany": "LVMH",
+        "marketRegion": [
+          "Worldwide"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Armani",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1975,
+        "logo": "https://assets.turbologo.com/blog/en/2020/01/19084716/armani-logo-cover.png",
+        "founder": "Giorgio Armani",
+        "annualRevenue": "2.6 billion USD",
+        "popularProducts": [
+          "Suits",
+          "Fragrances",
+          "Accessories"
+        ],
+        "website": "https://www.armani.com",
+        "employees": 7700,
+        "parentCompany": "Privately Owned",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Ralph Lauren",
+        "headquarters": "New York, USA",
+        "foundedYear": 1967,
+        "logo": "https://media.designrush.com/inspiration_images/137129/conversions/_1526408913_622_Ralph-Lauren-Stacked-Logo_2917332a71fa-mobile.jpg",
+        "founder": "Ralph Lauren",
+        "annualRevenue": "6.2 billion USD",
+        "popularProducts": [
+          "Polo Shirts",
+          "Accessories",
+          "Home Decor"
+        ],
+        "website": "https://www.ralphlauren.com",
+        "employees": 24700,
+        "parentCompany": "Publicly Traded",
+        "marketRegion": [
+          "North America",
+          "Europe",
+          "Asia"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Tom Ford",
+        "headquarters": "New York, USA",
+        "foundedYear": 2005,
+        "logo": "https://fragrancecanada.ca/cdn/shop/collections/Buy_Tom_Ford_Ombre_Leather_Online_Canada.jpg?v=1695052644",
+        "founder": "Tom Ford",
+        "annualRevenue": "500 million USD",
+        "popularProducts": [
+          "Fragrances",
+          "Sunglasses",
+          "Clothing"
+        ],
+        "website": "https://www.tomford.com",
+        "employees": 1000,
+        "parentCompany": "Estée Lauder",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Zara",
+        "headquarters": "Arteixo, Spain",
+        "foundedYear": 1974,
+        "logo": "https://prestige-express.com/image/catalog/20.08.21.dets/zarabrand.jpg",
+        "founder": "Amancio Ortega",
+        "annualRevenue": "19.6 billion USD",
+        "popularProducts": [
+          "Fast Fashion",
+          "Accessories",
+          "Shoes"
+        ],
+        "website": "https://www.zara.com",
+        "employees": 93000,
+        "parentCompany": "Inditex",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "H&M",
+        "headquarters": "Stockholm, Sweden",
+        "foundedYear": 1947,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3ztln7vMdgqfAONHbHor0R7v9XAynphCmw&s",
+        "founder": "Erling Persson",
+        "annualRevenue": "24.8 billion USD",
+        "popularProducts": [
+          "Fast Fashion",
+          "Home Decor",
+          "Accessories"
+        ],
+        "website": "https://www.hm.com",
+        "employees": 126000,
+        "parentCompany": "Publicly Traded",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Uniqlo",
+        "headquarters": "Yamaguchi, Japan",
+        "foundedYear": 1949,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UNIQLO_logo.svg/1200px-UNIQLO_logo.svg.png",
+        "founder": "Tadashi Yanai",
+        "annualRevenue": "19 billion USD",
+        "popularProducts": [
+          "Casual Wear",
+          "Outerwear",
+          "Underwear"
+        ],
+        "website": "https://www.uniqlo.com",
+        "employees": 56000,
+        "parentCompany": "Fast Retailing Co.",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Balenciaga",
+        "headquarters": "Paris, France",
+        "foundedYear": 1919,
+        "logo": "https://images.seeklogo.com/logo-png/36/1/balenciaga-logo-png_seeklogo-365962.png?v=638659911630000000",
+        "founder": "Cristóbal Balenciaga",
+        "annualRevenue": "1.2 billion USD",
+        "popularProducts": [
+          "Sneakers",
+          "Bags",
+          "Clothing"
+        ],
+        "website": "https://www.balenciaga.com",
+        "employees": 54000,
+        "parentCompany": "Fast Retailing Co.",
+        "marketRegion": [
+          "Global"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Fendi",
+        "headquarters": "Rome, Italy",
+        "foundedYear": 1925,
+        "logo": "https://customisation.club/cdn/shop/products/Fendi-Logo-Iron-on_aedfc1ba-f292-409b-a222-5fe46a8d8543_1200x1200.jpg?v=1682790482",
+        "founder": "Adele and Edoardo Fendi",
+        "annualRevenue": "1.1 billion USD",
+        "popularProducts": [
+          "Bags",
+          "Clothing",
+          "Shoes",
+          "Accessories"
+        ],
+        "website": "https://www.fendi.com",
+        "employees": 2500,
+        "parentCompany": "LVMH (Moët Hennessy Louis Vuitton)",
+        "marketRegion": [
+          "Global"
+        ]
+      }
+    ]
+  }
